@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/JavaScript-logo.svg?style=flat-square&logo=javascript&logoColor=F8DB5E&color=0d1117"/>
 <img src="https://img.shields.io/badge/TypeScript-logo.svg?style=flat-square&logo=typescript&logoColor=377CC8&color=0d1117"/>
 <img src="https://img.shields.io/badge/Bash-logo.svg?style=flat-square&logo=gnu-bash&logoColor=white&color=0d1117"/>
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/BetterAuth-logo.svg?style=flat-square&logo=betterauth&color=0d1117"/>
 </div>
 
-<div align="start">
+<div align="center">
   <img src="https://github-stats-extended-frontend-two-lemon.vercel.app/api?username=haxllo&theme=transparent&rank_icon=github&include_all_commits=true&hide_border=true&custom_title=Habeeb's+Stats&disable_animations=true&show_icons=true&count_private=true" height="165" alt="stats graph"  />
   <img src="https://github-stats-extended-frontend-two-lemon.vercel.app/api/top-langs/?username=haxllo&exclude_repo=repolens&theme=transparent&disable_animations=true&hide_border=true&show_icons=true&layout=compact&custom_title=Most+Used+Languages" height="200" alt="languages graph"  />
 </div>
