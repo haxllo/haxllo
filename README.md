@@ -23,6 +23,6 @@
 </div>
 
 <div align="start">
-  <img src="https://github-stats-extended-frontend-two-lemon.vercel.app/api?username=haxllo&show_icons=true&hide_border=false&count_private=true" height="160" alt="stats graph"  />
-  <img src="https://github-stats-extended-frontend-two-lemon.vercel.app/api/top-langs/?username=haxllo&show_icons=true&hide_border=false&layout=compact" height="160" alt="languages graph"  />
+  <img src="https://github-stats-extended-frontend-two-lemon.vercel.app/api?username=haxllo&theme=transparent&rank_icon=github&include_all_commits=true&hide_border=true&custom_title=Habeeb's+Stats&disable_animations=true&show_icons=true&count_private=true" height="165" alt="stats graph"  />
+  <img src="https://github-stats-extended-frontend-two-lemon.vercel.app/api/top-langs/?username=haxllo&theme=transparent&disable_animations=true&hide_border=true&show_icons=true&layout=compact&custom_title=Most+Used+Languages" height="200" alt="languages graph"  />
 </div>
