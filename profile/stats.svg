@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">haxllo&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 26, Total Commits  (last year) : 2301, Total PRs: 212, Total Issues: 219, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 26, Total Commits  (last year) : 2317, Total PRs: 221, Total Issues: 222, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 93.46674111952726;
+        stroke-dashoffset: 93.06977207924955;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >212</text>
+      >221</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >219</text>
+      >222</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
